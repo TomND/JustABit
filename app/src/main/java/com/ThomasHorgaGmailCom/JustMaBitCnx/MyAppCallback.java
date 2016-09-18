@@ -1,10 +1,13 @@
-package com.ThomasHorgaGmailCom.JustMaBitCnx.estimote;
+package com.ThomasHorgaGmailCom.JustMaBitCnx;
 
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.StrictMode;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 
 import com.coinbase.api.Coinbase;
 import com.coinbase.api.CoinbaseBuilder;
@@ -54,7 +57,7 @@ public class MyAppCallback extends AppCompatActivity {
                 // Otherwise, set the URL to null.
                 Uri.parse("http://host/path"),
                 // TODO: Make sure this auto-generated app URL is correct.
-                Uri.parse("android-app://com.example.tom_h.coinbase_implementation/com.example.tom_h.coinbase_implementation/host/path")
+                Uri.parse("android-app://com.ThomasHorgaGmailCom.JustMaBitCnx/com.ThomasHorgaGmailCom.JustMaBitCnx/host/path")
         );
         AppIndex.AppIndexApi.start(client, viewAction);
     }
@@ -75,7 +78,7 @@ public class MyAppCallback extends AppCompatActivity {
         //String urlParameters = "client_id=856fb5f74b2f139c88d49f44ace25eb67bf26ec0089ad5e2ca6d5b9f96864d22&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob%0D&response_type=code&scope=wallet%3Auser%3Aread";
         //
         //
-        String urlParameters = "grant_type=authorization_code&code="+token+"&client_id=856fb5f74b2f139c88d49f44ace25eb67bf26ec0089ad5e2ca6d5b9f96864d22&client_secret=ec2eb5737e2309fb08d2e498920c928b51be9b561696ed0992b7d3781d2ef861&redirect_uri=https://x-com.example.tom_h.coinbase_implementation://oauth.callback$code=code";
+        String urlParameters = "grant_type=authorization_code&code="+token+"&client_id=856fb5f74b2f139c88d49f44ace25eb67bf26ec0089ad5e2ca6d5b9f96864d22&client_secret=ec2eb5737e2309fb08d2e498920c928b51be9b561696ed0992b7d3781d2ef861&redirect_uri=https://x-com.ThomasHorgaGmailCom.JustMaBitCnx://oauth.callback$code=code";
         //https://www.coinbase.com/oauth/authorize?client_id=856fb5f74b2f139c88d49f44ace25eb67bf26ec0089ad5e2ca6d5b9f96864d22&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob%0D&response_type=code&scope=wallet%3Auser%3Aread
         // Send post request
         con.setDoOutput(true);
@@ -111,7 +114,7 @@ public class MyAppCallback extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        setContentView(R.layout.justmabitcnx);
 
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 
@@ -120,6 +123,18 @@ public class MyAppCallback extends AppCompatActivity {
         String token = getIntent().getData().getQueryParameter("code");
 
         String access_token = "";
+
+        Button button = (Button) findViewById(R.id.backButton);
+
+        button.setOnClickListener(new View.OnClickListener() { //com.example.tom_h.coinbase_implementation://oauth.callback$code=code
+            public void onClick(View arg0) { //urn:ietf:wg:oauth:2.0:oob
+                Intent backIntent =
+                        new Intent(MyAppCallback.this,MainActivity.class);
+                startActivity(backIntent);
+
+                //System.out.println(authzCode);
+            }
+        });
 
         try {
             String authInfo = sendPost(token);
@@ -192,7 +207,7 @@ public class MyAppCallback extends AppCompatActivity {
                 // Otherwise, set the URL to null.
                 Uri.parse("http://host/path"),
                 // TODO: Make sure this auto-generated app URL is correct.
-                Uri.parse("android-app://com.example.tom_h.coinbase_implementation/com.example.tom_h.coinbase_implementation/host/path")
+                Uri.parse("android-app://com.ThomasHorgaGmailCom.JustMaBitCnx/com.ThomasHorgaGmailCom.JustMaBitCnx/host/path")
         );
         AppIndex.AppIndexApi.end(client, viewAction);
         client.disconnect();

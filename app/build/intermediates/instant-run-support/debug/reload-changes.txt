@@ -1,0 +1,11 @@
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$id$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\R$id$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\R$string$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\R$integer$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\MyAppCallback$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\R$style$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\R$mipmap$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\R$styleable$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ThomasHorgaGmailCom\JustMaBitCnx\R$layout$override.class
+CHANGED,C:\Projects\JustMaBit\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class

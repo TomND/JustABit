@@ -4,30 +4,48 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="3511808403111"
+    timestamp="45991592365683"
     token="2860256178207710467" >
 
     <task
         name="javac"
-        duration="1090" />
+        duration="496" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1215" />
+        duration="0" />
     <task
         name="verifier"
-        duration="217" />
+        duration="0" />
 
     <artifact
-        location="C:\Projects\JustMaBit\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Projects\JustMaBit\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="3511808403111" >
+    <build timestamp="45449783682775" >
         <artifact
             location="C:\Projects\JustMaBit\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="45913506870875"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="45991592365683" >
+        <artifact
+            location="C:\Projects\JustMaBit\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#13da3b"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="152dp"
+        android:layout_height="390dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/checked"
+        android:paddingTop="200dp" />
+
+    <Button
+        android:layout_width="397dp"
+        android:layout_height="911dp"
+        android:id="@+id/backButton"
+        android:visibility="invisible"
+        android:enabled="false"
+        android:onClick="backToMain"
+        android:breakStrategy="high_quality"
+        android:backgroundTintMode="src_atop"
+        android:text="Back" />
+
+</LinearLayout>

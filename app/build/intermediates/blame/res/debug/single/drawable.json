@@ -110,5 +110,9 @@
     {
         "merged": "C:\\Projects\\JustMaBit\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Projects\\JustMaBit\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\JustMaBit\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.png",
+        "source": "C:\\Projects\\JustMaBit\\app\\src\\main\\res\\drawable\\checked.png"
     }
 ]

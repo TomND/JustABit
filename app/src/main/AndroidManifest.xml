@@ -25,7 +25,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="http" />
                 <data android:scheme="https" />
-                <data android:host="x-com.example.tom_h.coinbase_implementation" />
+                <data android:host="x-com.ThomasHorgaGmailCom.JustMaBitCnx" />
             </intent-filter>
         </activity>
 

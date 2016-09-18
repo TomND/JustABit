@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                         public void onClick(View arg0) { //urn:ietf:wg:oauth:2.0:oob
                             Intent viewIntent =
                                     new Intent("android.intent.action.VIEW",
-                                            Uri.parse("https://www.coinbase.com/oauth/authorize?response_type=code&client_id=856fb5f74b2f139c88d49f44ace25eb67bf26ec0089ad5e2ca6d5b9f96864d22&redirect_uri=https://x-com.example.tom_h.coinbase_implementation://oauth.callback$code=code&scope=send&meta[send_limit_amount]=1&meta[send_limit_currency]=USD&meta[send_limit_period]=day"));
+                                            Uri.parse("https://www.coinbase.com/oauth/authorize?response_type=code&client_id=856fb5f74b2f139c88d49f44ace25eb67bf26ec0089ad5e2ca6d5b9f96864d22&redirect_uri=https://x-com.ThomasHorgaGmailCom.JustMaBitCnx://oauth.callback$code=code&scope=send&meta[send_limit_amount]=1&meta[send_limit_currency]=USD&meta[send_limit_period]=day"));
                             startActivity(viewIntent);
 
                             //System.out.println(authzCode);
