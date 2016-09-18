@@ -4,35 +4,30 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="4207161782634"
+    timestamp="3511808403111"
     token="2860256178207710467" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1090" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1215" />
     <task
         name="verifier"
-        duration="0" />
+        duration="217" />
 
     <artifact
-        location="C:\Projects\JustMaBit\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="C:\Projects\JustMaBit\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build timestamp="3511808403111" >
         <artifact
             location="C:\Projects\JustMaBit\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="4207161782634" >
-        <artifact
-            location="C:\Projects\JustMaBit\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

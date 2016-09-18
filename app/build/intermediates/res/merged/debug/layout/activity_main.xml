@@ -41,13 +41,11 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="Tip Performer"
         android:id="@+id/buttonTip"
         android:visibility="visible"
-        android:layout_alignEnd="@+id/coinMain"
-        android:layout_alignTop="@+id/coinMain"
-        android:layout_alignStart="@+id/coinMain"
-        android:background="#00ffffff"
-        android:layout_alignBottom="@+id/coinMain" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 
     <ImageView
         android:layout_width="wrap_content"
@@ -60,9 +58,9 @@
         android:minHeight="30dp"
         android:nestedScrollingEnabled="false"
         android:minWidth="30dp"
+        android:layout_below="@+id/coinMain"
+        android:layout_centerHorizontal="true"
         android:clickable="true"
         android:onClick="imageClick"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="36dp" />
+        />
 </RelativeLayout>
