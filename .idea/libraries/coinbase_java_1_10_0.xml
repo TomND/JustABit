@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="coinbase-java-1.10.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.coinbase.api/coinbase-java/1.10.0/71baacb906bab9489d2e29e060598cfe5630e28b/coinbase-java-1.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.coinbase.api/coinbase-java/1.10.0/3f3d9bfb435cf3a9d0508ce05107071185803095/coinbase-java-1.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tom-H\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_80ccfe2ffaee9f553a4d67be800806aeaa6db0e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.datatype\jackson-datatype-joda\2.4.0\bff3a33f9ff1b6137db946ad27b014856ae32a83\jackson-datatype-joda-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bff3a33f9ff1b6137db946ad27b014856ae32a83">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-datatype-joda-2.4.0_d0a034f47e156263fffaa47814a1cc197563896a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.3_9efa22f05b3589c48c0f5459876604a32e96db19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_24b6e6ea621a56d4a24b035693dacfec57e94445\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\net.sf.opencsv\opencsv\2.0\97a2765dc2db1083e7c5afcc210db5f7cad3b442\opencsv-2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="97a2765dc2db1083e7c5afcc210db5f7cad3b442">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\opencsv-2.0_47c0178c06832cb20ce25a4d16ab0f17001e1ffd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\com.coinbase.api\coinbase-java\1.10.0\71baacb906bab9489d2e29e060598cfe5630e28b\coinbase-java-1.10.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="71baacb906bab9489d2e29e060598cfe5630e28b">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\coinbase-java-1.10.0_902b7ca3ebe67210800841bae443606ffd88b8b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="640af651fe94032b8f34112aabd351df29d3e2df">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.estimote-sdk-0.10.8_b2d6770a345e26a734442777b42ad628b3804940\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_bfcba16d2833ff056d36c48b9829248cd95dbb85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="568f2137ba20c46eed4d84c2efe8c231485283f1">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c951d2e67b885bdffe67f18602eea01d28c2f85a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.0\1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d\jackson-core-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.4.0_c83c9815b4e252962d10b19f0e875ee66fb079f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_ead59ae470cb18b627b81a5445e55090a3d30b39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_4272d9bac52fe30948c933c872598f105a77550d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c448488b1e6b5b1518a055e1fc572715f5b5d125">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9d6d2833ae4c3353a7995f6ae2c5403e1de8d134\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_309dc5ef0bb1897df89dff0078f57d633573f02e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_fae27a8914be214e0b16dac764d81fa55e465399\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.9\9ce04e34240f674bc72680f8b843b1457383161a\commons-codec-1.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-codec-1.9_9afbdc0426b7dc73899303065d5917c94cbf2fc9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.0\d6a66c7a5f01cf500377bd669507a08cfeba882a\jackson-annotations-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.4.0_39a292fc6717452173ef3d99aea99ac66bb1c398\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.0\473e063d6396a1ff6e4b9c7943e604291ce18b07\jackson-databind-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="473e063d6396a1ff6e4b9c7943e604291ce18b07">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.4.0_ecadf05e19a9af9947d240eef45cc75bf9db92f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Projects\JustMaBit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_a4ea56cd79bd849946138046f893d9b2e5dfe0d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tom-H\.gradle\caches\modules-2\files-2.1\org.joda\joda-money\0.9.1\cccbd6a58e0b47c6bd0369f320f63bc9944a4b8d\joda-money-0.9.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cccbd6a58e0b47c6bd0369f320f63bc9944a4b8d">
+        <dex dex="C:\Projects\JustMaBit\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-money-0.9.1_8c1dcba0d2f94945ee4f7c094e5f54408f81cefd\classes.dex" />
+    </item>
+
+</items>
