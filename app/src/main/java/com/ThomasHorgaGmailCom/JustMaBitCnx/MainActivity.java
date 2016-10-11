@@ -16,6 +16,13 @@ import com.ThomasHorgaGmailCom.JustMaBitCnx.estimote.ProximityContentManager;
 import com.estimote.sdk.SystemRequirementsChecker;
 import com.estimote.sdk.cloud.model.Color;
 
+import com.amazonaws.auth.CognitoCachingCredentialsProvider;
+import com.amazonaws.regions.Regions;
+import com.amazonaws.services.dynamodbv2.*;
+import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.*;
+import com.amazonaws.services.dynamodbv2.model.*;
+
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -138,5 +145,15 @@ public class MainActivity extends AppCompatActivity {
         else {
             // you poor
         }*/
+    }
+
+    public void awsCredentials(){
+        // Initialize the Amazon Cognito credentials provider
+        CognitoCachingCredentialsProvider credentialsProvider = new CognitoCachingCredentialsProvider(
+                getApplicationContext(),
+                "us-west-2:80b11f09-9a8b-4a4d-a16f-095a57543b70", // Identity Pool ID
+                Regions.US_WEST_2 // Region
+        );
+
     }
 }

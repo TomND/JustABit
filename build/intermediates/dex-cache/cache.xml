@@ -1,3 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.22\a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549\aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-2.2.22_8922fb9b5a12dcb9219e2d20092136389ba27294.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.9\9ce04e34240f674bc72680f8b843b1457383161a\commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\commons-codec-1.9_bb3a65472ba1acdb39762376137d1fd823fe61bc.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_56bd612ce6e00a9527dadb64658cd847fad0040a.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_87e2e770832c64dea93d86b17b66849a37557dae.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_0fa4a0a0b90b29a7bfbd1dd8ca57cb3ca8f448bc.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_cbd90896465bd7b8af29a7f56ddb5f5ce1bc1aa4.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_a70a5f865204b891b1f8093d73d0bee16929380e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.0\d6a66c7a5f01cf500377bd669507a08cfeba882a\jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.0_192f20d2981352fc537672222cec68382026e76f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.coinbase.api\coinbase-java\1.10.0\71baacb906bab9489d2e29e060598cfe5630e28b\coinbase-java-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="71baacb906bab9489d2e29e060598cfe5630e28b">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\coinbase-java-1.10.0_7ed8c3190b6aa6abb412a3f178082910dd495fab.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_b05f2c39e418a17abd81c24a91a7226c281342ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.22\9bef9beddb1b7579713905702d8219d516bd3954\aws-android-sdk-cognito-2.2.22.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9bef9beddb1b7579713905702d8219d516bd3954">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\aws-android-sdk-cognito-2.2.22_5960ab635040bd0cf04ad964d9f91e0871acb268.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\net.sf.opencsv\opencsv\2.0\97a2765dc2db1083e7c5afcc210db5f7cad3b442\opencsv-2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="97a2765dc2db1083e7c5afcc210db5f7cad3b442">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\opencsv-2.0_daa3bd6dca501fb3e48d55cea52e4de2d38ae686.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.22\40fe82092e0ae3ca549b132a1e7e876807525176\aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.22_9b68e6bfa6ad1b137050b764e49f3d2d9ac79168.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\joda-time-2.3_75e6a85efe2e0262c777ee1eae3b95dcb85a0cea.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_5e09f2d37ea838594407a2f4c719f10c1abc3664.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.0\1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d\jackson-core-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.0_ef68d4ac2f12eb148c5fe3dad157b53e14be434c.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="640af651fe94032b8f34112aabd351df29d3e2df">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\com.estimote-sdk-0.10.8_2bf9f865ba8edcdfa11ddd7f387af9472427ef05.jar" />
+    </item>
+    <item
+        jar="D:\JustABitGit\JustaBit\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_7a1deb3f0d0c30cc201b4a80af25a89589359263.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.datatype\jackson-datatype-joda\2.4.0\bff3a33f9ff1b6137db946ad27b014856ae32a83\jackson-datatype-joda-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bff3a33f9ff1b6137db946ad27b014856ae32a83">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\jackson-datatype-joda-2.4.0_258025f8dd28fb5a3fdd30e8798be50dc62cf63c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\org.joda\joda-money\0.9.1\cccbd6a58e0b47c6bd0369f320f63bc9944a4b8d\joda-money-0.9.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cccbd6a58e0b47c6bd0369f320f63bc9944a4b8d">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\joda-money-0.9.1_40f27976a69e11910d989bbc59721d7296ed8630.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.22\c6789de00db9d1f93faec881fa0c1f5960fb8a15\aws-android-sdk-core-2.2.22.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.22_e1b87800460d75ae40d78b0c6cc16022d8ae5cc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.2.22\57538cc0c8d6f9279d94aa347fb1a90f68592719\aws-android-sdk-ddb-mapper-2.2.22.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57538cc0c8d6f9279d94aa347fb1a90f68592719">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-mapper-2.2.22_62f3fcb01a8262cde516609cf9dac09d01b7887d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.0\473e063d6396a1ff6e4b9c7943e604291ce18b07\jackson-databind-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="473e063d6396a1ff6e4b9c7943e604291ce18b07">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\jackson-databind-2.4.0_1d69cfba5200ae28f52d8fa35eb52bd902b1d83f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognitoidentityprovider\2.2.22\6ddcf148b81c8a388d17964d78cf3e26f0ae9bc\aws-android-sdk-cognitoidentityprovider-2.2.22.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="06ddcf148b81c8a388d17964d78cf3e26f0ae9bc">
+        <dex dex="D:\JustABitGit\JustaBit\app\build\intermediates\pre-dexed\debug\aws-android-sdk-cognitoidentityprovider-2.2.22_3ebceffd32450829f72840beac8dd995fcda2049.jar" />
+    </item>
+
+</items>

@@ -33,6 +33,14 @@ dependencies {
     compile 'com.estimote:sdk:0.10.+@aar'
     compile 'com.coinbase.api:coinbase-java:1.10.0'
     compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+
+    compile 'com.amazonaws:aws-android-sdk-core:2.2.+'
+    compile 'com.amazonaws:aws-android-sdk-s3:2.2.+'
+    compile 'com.amazonaws:aws-android-sdk-ddb:2.2.+'
+    compile 'com.amazonaws:aws-android-sdk-cognito:2.2.+'
+    compile 'com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.2.+'
+    compile 'com.amazonaws:aws-android-sdk-ddb:2.2.+'
+    compile 'com.amazonaws:aws-android-sdk-ddb-mapper:2.2.+'
 }
 
 

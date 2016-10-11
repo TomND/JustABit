@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\JustABitGit\\JustaBit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\JustABitGit\\JustaBit\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Projects\\JustMaBit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Projects\\JustMaBit\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
