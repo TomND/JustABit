@@ -23,6 +23,8 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
+    private static boolean NO_BEACON = true; // true if testing without a beacon
+
     private static final String TAG = "MainActivity";
 
     private static final Map<Color, Integer> BACKGROUND_COLORS = new HashMap<>();
@@ -56,10 +58,13 @@ public class MainActivity extends AppCompatActivity {
             public void onContentChanged(Object content) {
                 String text;
                 Integer backgroundColor;
-                if (content != null) {
-                    EstimoteCloudBeaconDetails beaconDetails = (EstimoteCloudBeaconDetails) content;
+                if (content != null || NO_BEACON) {
+                    if(content != null){
+                        EstimoteCloudBeaconDetails beaconDetails = (EstimoteCloudBeaconDetails) content;
 
-                    text = "You're in " + beaconDetails.getBeaconName() + "'s range!";
+                        text = "You're in " + beaconDetails.getBeaconName() + "'s range!";
+                    }
+
                     backgroundColor = BACKGROUND_COLOR_NEUTRAL; // green
                     // Assuming you are using xml layout
                     System.out.print('d');
